@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SlotsJackpotCity</string>
+    <string name="loading_text_dc">Loading text</string>
+    <string name="privacy_policy_text">Text here</string>
+</resources>
